@@ -49,6 +49,7 @@ timezone: America/Chicago
 
 include:
   - _pages
+  - _posts
 
 repository: "damnitjim/damnitjim.gitub.io"
 
